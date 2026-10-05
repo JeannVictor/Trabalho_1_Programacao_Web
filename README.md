@@ -14,7 +14,7 @@ O site apresenta informações sobre minha trajetória pessoal e acadêmica, meu
 
 ## Site publicado
 
-[Acessar o site pessoal](https://jeannvictor.github.io/Trabalho_1_Programcao_Web/)
+[Acessar o site pessoal](https://jeannvictor.github.io/Trabalho_1_Programacao_Web/)
 
 ## Autor
 
